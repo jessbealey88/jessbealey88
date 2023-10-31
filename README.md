@@ -9,7 +9,9 @@ I love to solve a problem or make a process more efficient wherever possible, an
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Trail App](https://github.com/jessbealey88/trail-app)**         | An app that allows you to discover the world around you. Uses Google Places to find five nearest tourist attractions, then uses ChatGPT and Google's TTS engine to generate tour guides. Built in a group of four over 2 weeks using agile sprints. | React, JavaScript, HTML, CSS, Jest, Cypress|
-|**[Acebook](https://github.com/jessbealey88/acebook-mern-template)**  | |          |
+| **[Acebook](https://github.com/jessbealey88/acebook-mern-template)**  | Simple social media site based on Facebook developed in an agile team using sprints. Allows users to register, post text and images, and browse a feed and react to posts.
+
+|          |
 
 ## Work Experience
 
